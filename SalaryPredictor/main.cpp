@@ -1,3 +1,5 @@
+// Single Neuron Neural Network to predict salaries
+
 #include "header.hpp"
 #include "functions.cpp"
 
